@@ -1,0 +1,3 @@
+# 2023_arduino_hanselGretel
+# My classmates and I created this interactive project for our Digital Narrative and Interactive Design class. Our goal was to select a beloved children's book and breathe new life into its enchanting tale using the Arduino UNO board. An essential aspect of our project was constructing it from the ground up and hardware components, such as LED's, Hall sensors, and servo motors to a single breadboard. The project took us roughly a month to brainstorm, code, design, and implement. There was a special focus on creating accessible and understandable interactions that invited users to experience the project easily. 
+# Link to Youtube demonstration video: https://youtu.be/Xc0xlN9ecPo?si=3DVBC-iRcuPJ9ac-
